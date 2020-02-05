@@ -1,0 +1,20 @@
+html{
+    position: relative;
+
+}
+ 
+body {
+    margin-bottom: 120px;
+    margin-top: 20px;
+}
+
+.jumbotron {
+    text-align: center;
+    height: 1000px;
+    background-color: lightslategray;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 0 -300px;
+    color: #eaeaeaea;
+    overflow: hidden;
+}
